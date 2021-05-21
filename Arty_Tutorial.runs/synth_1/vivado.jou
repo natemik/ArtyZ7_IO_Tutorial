@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Tue May 18 23:42:04 2021
+# Process ID: 27136
+# Current directory: B:/Documents/UAlbertaLabs/Arty_Tutorial/Arty_Tutorial.runs/synth_1
+# Command line: vivado.exe -log tutorial.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source tutorial.tcl
+# Log file: B:/Documents/UAlbertaLabs/Arty_Tutorial/Arty_Tutorial.runs/synth_1/tutorial.vds
+# Journal file: B:/Documents/UAlbertaLabs/Arty_Tutorial/Arty_Tutorial.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source tutorial.tcl -notrace
