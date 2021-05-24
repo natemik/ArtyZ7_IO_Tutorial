@@ -99,16 +99,16 @@ Similar to reading the button state, a process can be created to read the switch
 **Note: There are three bits in the RGB LED's output resulting in 2<sup>3</sup>, or 8 different color combinations.**
 
 
-| Red | Green | Blue |    Color    |
-|-----|:-----:|:----:|:-----------:|
-|  0  |   0   |  0   | **Off**     |
-|  0  |   0   |  1   | **Blue**    |
-|  0  |   1   |  0   | **Green**   |
-|  0  |   1   |  1   | **Cyan**    |
-|  1  |   0   |  0   | **Red**     |
-|  1  |   0   |  1   | **Magenta** |
-|  1  |   1   |  0   | **Yellow**  |
-|  1  |   1   |  1   | **White**   |
+|  Red  | Green | Blue |    Color    |
+|:-----:|:-----:|:----:|:-----------:|
+|   0   |   0   |  0   | **Off**     |
+|   0   |   0   |  1   | **Blue**    |
+|   0   |   1   |  0   | **Green**   |
+|   0   |   1   |  1   | **Cyan**    |
+|   1   |   0   |  0   | **Red**     |
+|   1   |   0   |  1   | **Magenta** |
+|   1   |   1   |  0   | **Yellow**  |
+|   1   |   1   |  1   | **White**   |
 
 </center>
 
