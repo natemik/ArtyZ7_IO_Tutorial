@@ -89,6 +89,7 @@ variable red_counter : integer := 0;
 variable green_counter : integer := 0;
 variable blue_counter : integer := 0;
 begin
+    -- Evaluate on rising edge of 8 ns clock
     if rising_edge(clk) then
         -- If the switch is in the ON position, allow the bits to be evaluated
         if sw0 = '1' then 
